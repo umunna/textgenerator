@@ -1,2 +1,2 @@
 # textgenerator 
-for pidgin ipsum. link:
+for pidgin Ipsum. link: https://pidsum.vercel.app/
