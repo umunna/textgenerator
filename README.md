@@ -1,2 +1,2 @@
 # textgenerator 
-for pidgin ipsum.
+for pidgin ipsum. link:
